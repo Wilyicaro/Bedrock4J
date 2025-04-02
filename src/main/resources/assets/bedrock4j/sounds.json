@@ -1,0 +1,65 @@
+{
+  "random.focus": {
+    "sounds": [
+      {
+        "name": "bedrock4j:focus"
+      }
+    ]
+  },
+  "random.back": {
+    "sounds": [
+      {
+        "name": "bedrock4j:back"
+      }
+    ]
+  },
+  "random.craft_fail": {
+    "sounds": [
+      {
+        "name": "bedrock4j:craft_fail"
+      }
+    ]
+  },
+  "random.scroll": {
+    "sounds": [
+      {
+        "name": "bedrock4j:scroll"
+      }
+    ]
+  },
+  "random.action": {
+    "sounds": [
+      {
+        "name": "bedrock4j:action"
+      }
+    ]
+  },
+  "random.shift_lock": {
+    "sounds": [
+      {
+        "name": "bedrock4j:shift_lock"
+      }
+    ]
+  },
+  "random.shift_unlock": {
+    "sounds": [
+      {
+        "name": "bedrock4j:shift_unlock"
+      }
+    ]
+  },
+  "random.space": {
+    "sounds": [
+      {
+        "name": "bedrock4j:space"
+      }
+    ]
+  },
+  "random.backspace": {
+    "sounds": [
+      {
+        "name": "bedrock4j:backspace"
+      }
+    ]
+  }
+}

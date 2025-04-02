@@ -1,0 +1,10 @@
+{
+  "tooltips": [
+    {
+      "keyMapping": "key.attack",
+      "action": "bedrock4j.action.hit",
+      "hitEntity": true,
+      "hitBlock": false
+    }
+  ]
+}

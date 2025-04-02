@@ -1,0 +1,71 @@
+[
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.whats_new"},
+    "ui_definition": "bedrock4j:how_to_play/whats_new"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.basics"},
+    "ui_definition": "bedrock4j:how_to_play/basics"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.crafting"},
+    "ui_definition": "bedrock4j:how_to_play/crafting"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.crafting-table"},
+    "ui_definition": "bedrock4j:how_to_play/crafting-table",
+    "hasButton": false
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.farming-animals"},
+    "ui_definition": "bedrock4j:how_to_play/farming-animals"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.breeding-animals"},
+    "ui_definition": "bedrock4j:how_to_play/breeding-animals"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.horses"},
+    "ui_definition": "bedrock4j:how_to_play/horses"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.fireworks"},
+    "ui_definition": "bedrock4j:how_to_play/firework"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.banners"},
+    "ui_definition": "bedrock4j:how_to_play/banner"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.nether-portal"},
+    "ui_definition": "bedrock4j:how_to_play/nether-portal"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.the-end"},
+    "ui_definition": "bedrock4j:how_to_play/the-end"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.end-cities"},
+    "ui_definition": "bedrock4j:how_to_play/end-cities"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.elytra"},
+    "ui_definition": "bedrock4j:how_to_play/elytra"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.oceans"},
+    "ui_definition": "bedrock4j:how_to_play/oceans"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.ocean-mobs"},
+    "ui_definition": "bedrock4j:how_to_play/ocean-mobs"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.conduit"},
+    "ui_definition": "bedrock4j:how_to_play/conduit"
+  },
+  {
+    "title": {"translate": "bedrock4j.menu.how_to_play.host-and-player-options"},
+    "ui_definition": "bedrock4j:how_to_play/host-and-player-options"
+  }
+]

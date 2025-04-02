@@ -2,7 +2,7 @@
   "elements": {
     "changelogBackground": {
       "type": "blit_sprite",
-      "sprite": "legacy:tiles/square_recessed_panel",
+      "sprite": "bedrock4j:tiles/square_recessed_panel",
       "x": "${panel.x}+7",
       "y": "${panel.y}+10",
       "width": 353,
@@ -18,7 +18,7 @@
       "elements": {
         "text": {
           "type": "draw_multiline_string",
-          "component": {"translate": "legacy.menu.newerMinecraftVersion"},
+          "component": {"translate": "bedrock4j.menu.newerMinecraftVersion"},
           "shadow": false,
           "color": "${commonColor.inventory_gray_text}",
           "width": 348

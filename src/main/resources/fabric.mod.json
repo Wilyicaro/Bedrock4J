@@ -20,10 +20,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "wily.legacy.Legacy4J::init"
+      "wily.bedrock4j.Bedrock4J::init"
     ],
     "client": [
-      "wily.legacy.Legacy4JClient::init"
+      "wily.bedrock4j.Bedrock4JClient::init"
     ]
   },
   "accessWidener": "${aw}",

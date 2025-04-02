@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedrock4j:block/shrub"
+    }
+  }
+}

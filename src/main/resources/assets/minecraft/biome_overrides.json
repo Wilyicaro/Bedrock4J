@@ -19,25 +19,25 @@
       "item": "snow"
     },
     "cold_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "snowy_taiga": {
       "item": "spruce_log"
     },
     "deep_cold_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "deep_frozen_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "deep_lukewarm_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "deep_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "deep_warm_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "desert": {
       "item": "sand"
@@ -103,7 +103,7 @@
       "item": "jungle_leaves"
     },
     "lukewarm_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "old_growth_spruce_taiga": {
       "item": "spruce_log"
@@ -133,7 +133,7 @@
       "item": "mycelium"
     },
     "ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "grove": {
       "item": "stone"
@@ -145,7 +145,7 @@
       "item": "grass_block"
     },
     "river": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "dark_forest": {
       "item": "dark_oak_log"
@@ -154,13 +154,13 @@
       "item": "dark_oak_log"
     },
     "savanna": {
-      "item": "legacy:shrub"
+      "item": "bedrock4j:shrub"
     },
     "windswept_savanna": {
       "item": "acacia_log"
     },
     "savanna_plateau": {
-      "item": "legacy:shrub"
+      "item": "bedrock4j:shrub"
     },
     "stone_beach": {
       "item": "stone"
@@ -217,7 +217,7 @@
       "item": "pointed_dripstone"
     },
     "warm_ocean": {
-      "item": "legacy:water"
+      "item": "bedrock4j:water"
     },
     "the_void": {
       "item": "barrier"
